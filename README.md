@@ -4,11 +4,45 @@ Meu nome é Alison Lima e sou estudante de Estatística na Universidade Federal 
 
 Pretendo utilizar este Github como um portfólio pessoal voltado a área de análise de dados.
 
+## :brain: Skills
+
+### :computer: Softwares
+- R/RStudio
+- Python
+- SQL
+- C++
+- Java
+- Microsoft Excel
+- Microsoft Power BI
+- Linux e Windows
+
+### :earth_americas: Idiomas
+- Português BR (Nativo)
+- Inglês (Intermediário)
+- Espanhol (básico)
+- Alemão (básico)
+
+## 📊 Estudos
+
+### Assuntos de domínio em Estatística
+- Análise Exploratória
+- Modelos de Regressão 
+  - Linear Simples e Múltiplo
+  - Logístico
+  - Linear Generalizado
+  - Linear Misto
+- Análise de Dados Longitudinais
+- Séries Temporais
+- Análise de Sobrevivência
+- Dados Categorizados
 
 
-
-
-
+## Estatísticas do meu Github
+<div>
+<a href="https://github.com/alisondsl">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisondsl&layout=compact&langs_count=7&theme=slateorange"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisondsl&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
