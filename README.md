@@ -22,7 +22,7 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
 - Espanhol (básico)
 - Alemão (básico)
 
-## 📊 Estudos
+## :books: Estudos
 
 ### Assuntos de domínio em Estatística
 - Análise Exploratória
@@ -37,7 +37,7 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
 - Dados Categorizados
 
 
-## Estatísticas do meu Github
+## 📊 Estatísticas do meu Github
 <div>
 <a href="https://github.com/alisondsl">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisondsl&layout=compact&langs_count=7&theme=slateorange"/>
