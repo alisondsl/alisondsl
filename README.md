@@ -35,6 +35,7 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
 - Séries Temporais
 - Análise de Sobrevivência
 - Dados Categorizados
+- Machine Learning
 
 
 ## 📊 Estatísticas do meu Github
