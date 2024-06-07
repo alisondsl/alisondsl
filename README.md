@@ -1,6 +1,6 @@
 ## Olá!
 
-Meu nome é Alison Lima e sou estudante de Estatística na Universidade Federal do Ceará (UFC). Atualmente, desenvolvo meu trabalho de conclusão de curso voltado a análise de sobrevivência com aplicação em dados médicos. Durante minha trajetória acadêmica fui membro da Empresa Júnior Gauss, atuando como diretor de projetos e financeiro. Nela pude desenvolver e aprimorar diversas habilidades técnicas e interpessoais :blush:.
+Meu nome é Alison Lima sou graduado em Estatística na Universidade Federal do Ceará (UFC) e atualmente mestrando em Modelagem e Métodos Qualitativos pela mesma. Durante minha trajetória acadêmica fui membro da Empresa Júnior Gauss, atuando como diretor de projetos e financeiro. Nela pude desenvolver e aprimorar diversas habilidades técnicas e interpessoais :blush:. Como profissional, trabalhei como Analista de Dados nas empresas StarPrint - Rótulos e Etiquetas e hoje atuo na Tecla T em parceria com a Hapvida.
 
 Pretendo utilizar este Github como um portfólio pessoal voltado a área de análise de dados.
 
@@ -26,6 +26,7 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
 
 ### Assuntos de domínio em Estatística
 - Análise Exploratória
+Análise de Sobrevivência
 - Modelos de Regressão 
   - Linear Simples e Múltiplo
   - Logístico
@@ -33,7 +34,6 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
   - Linear Misto
 - Análise de Dados Longitudinais
 - Séries Temporais
-- Análise de Sobrevivência
 - Dados Categorizados
 - Machine Learning
 
