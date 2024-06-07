@@ -26,7 +26,7 @@ Pretendo utilizar este Github como um portfólio pessoal voltado a área de aná
 
 ### Assuntos de domínio em Estatística
 - Análise Exploratória
-Análise de Sobrevivência
+- Análise de Sobrevivência
 - Modelos de Regressão 
   - Linear Simples e Múltiplo
   - Logístico
